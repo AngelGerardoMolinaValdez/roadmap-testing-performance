@@ -1,7 +1,7 @@
 # Roadmap Testing Performance 🚀
 
 ## 1. Introducción al Testing de Performance
-   - Definición y objetivos
+   - [Definición y objetivos](./temario/01.introduccion/definicion.md)
    - Importancia en el desarrollo de software
    - Diferencias entre testing de performance, testing funcional, y otros tipos de pruebas
 
