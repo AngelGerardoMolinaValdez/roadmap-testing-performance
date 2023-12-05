@@ -3,7 +3,7 @@
 ## 1. Introducción al Testing de Performance
    - [Definición y objetivos](./temario/01.introduccion/definicion.md)
    - [Importancia en el desarrollo de software](./temario/01.introduccion/importancia.md)
-   - Diferencias entre testing de performance, testing funcional, y otros tipos de pruebas
+   - [Diferencias entre testing de performance, testing funcional, y otros tipos de pruebas](./temario/01.introduccion/diferencias.md)
 
 ## 2. Conceptos Básicos y Terminología
    - Carga, estrés, escalabilidad, y estabilidad
