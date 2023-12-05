@@ -2,7 +2,7 @@
 
 ## 1. Introducción al Testing de Performance
    - [Definición y objetivos](./temario/01.introduccion/definicion.md)
-   - Importancia en el desarrollo de software
+   - [Importancia en el desarrollo de software](./temario/01.introduccion/importancia.md)
    - Diferencias entre testing de performance, testing funcional, y otros tipos de pruebas
 
 ## 2. Conceptos Básicos y Terminología
