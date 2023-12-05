@@ -6,7 +6,7 @@
    - [Diferencias entre testing de performance, testing funcional, y otros tipos de pruebas](./temario/01.introduccion/diferencias.md)
 
 ## 2. Conceptos Básicos y Terminología
-   - Carga, estrés, escalabilidad, y estabilidad
+   - [Carga, estrés, escalabilidad, y estabilidad](./temario/02.conceptos_basicos/definiciones.md)
    - Métricas de rendimiento: Tiempo de respuesta, throughput, uso de recursos, etc.
    - Herramientas comunes y su propósito (JMeter, LoadRunner, etc.)
 
