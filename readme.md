@@ -7,7 +7,7 @@
 
 ## 2. Conceptos Básicos y Terminología
    - [Carga, estrés, escalabilidad, y estabilidad](./temario/02.conceptos_basicos/definiciones.md)
-   - Métricas de rendimiento: Tiempo de respuesta, throughput, uso de recursos, etc.
+   - [Métricas de rendimiento: Tiempo de respuesta, throughput, uso de recursos.](./temario/02.conceptos_basicos/metricas.md)
    - Herramientas comunes y su propósito (JMeter, LoadRunner, etc.)
 
 ## 3. Planificación de Pruebas de Rendimiento
