@@ -11,7 +11,7 @@
    - [Herramientas comunes y su propósito](./temario/02.conceptos_basicos/herramientas.md)
 
 ## 3. Planificación de Pruebas de Rendimiento
-   - Identificación de requisitos de rendimiento
+   - [Identificación de requisitos de rendimiento](./temario/03.planificacion_pruebas_de_rendimiento/identificacion.md)
    - Creación de un plan de prueba: objetivos, métricas, criterios de éxito
    - Selección de herramientas y recursos necesarios
 
