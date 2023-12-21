@@ -12,7 +12,7 @@
 
 ## 3. Planificación de Pruebas de Rendimiento
    - [Identificación de requisitos de rendimiento](./temario/03.planificacion_pruebas_de_rendimiento/identificacion.md)
-   - Creación de un plan de prueba: objetivos, métricas, criterios de éxito
+   - [Creación de un plan de prueba: objetivos, métricas, criterios de éxito](./temario/03.planificacion_pruebas_de_rendimiento/creacion_plan_de_prueba.md)
    - Selección de herramientas y recursos necesarios
 
 ## 4. Diseño de Pruebas de Rendimiento
