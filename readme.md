@@ -16,7 +16,7 @@
    - [Selección de herramientas y recursos necesarios](./temario/03.planificacion_pruebas_de_rendimiento/seleccion_de_herramientas.md)
 
 ## 4. Diseño de Pruebas de Rendimiento
-   - Creación de escenarios de prueba
+   - [Creación de escenarios de prueba](./temario/04.disenio_de_pruebas/creacion_de_escenarios.md)
    - Configuración de datos y entornos de prueba
    - Consideraciones de diseño para diferentes tipos de aplicaciones (web, móviles, APIs)
 
